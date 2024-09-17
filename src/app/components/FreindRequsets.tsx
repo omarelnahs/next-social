@@ -8,7 +8,7 @@ function FreindRequsets() {
       {/* TOP  */}
       <div className="flex justify-between items-center font-medium">
         <span className="text-gray-500">Friend Request</span>
-        <Link href={"/"} className="text-blue-500 text-sm"></Link>
+        <Link href={"/"} className="text-blue-500 text-sm"> See All</Link>
       </div>
       {/* User  */}
       <div className="flex items-center justify-between">
